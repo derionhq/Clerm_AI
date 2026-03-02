@@ -1,4 +1,4 @@
-![ClermAI]([LINK_GAMBAR_KAMU.png](https://i.imgur.com/UID6FiT.jpeg))
+![ClermAI](https://i.imgur.com/UID6FiT.jpeg
 # 🤖 ClermAI
 
 AI agents built for command-driven execution.
