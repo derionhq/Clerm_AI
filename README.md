@@ -170,7 +170,7 @@ Please review individual project licenses for specific details.
 https://www.clermai.xyz/
 
 💻 GitHub  
-https://github.com/
+https://github.com/derionhq
 
 Discussions, feedback, and ideas are always welcome.
 
