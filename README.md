@@ -1,4 +1,4 @@
-![ClermAI Banner](https://i.imgur.com/UID6FiT.jpeg)
+![ClermAI Banner](https://i.imgur.com/M8PHy65.jpeg)
 
 # 🤖 ClermAI
 
