@@ -1,4 +1,4 @@
-<p align="center">
+<<p align="center">
   <img src="https://i.imgur.com/M8PHy65.jpeg" width="100%">
 </p>
 
@@ -12,17 +12,31 @@ AI agents built for command-driven execution
 Experimental infrastructure for autonomous systems, intelligent automation, and open AI tooling.
 </p>
 
+<p align="center">
+🌐 Website: https://www.clermai.xyz/
+</p>
+
 ---
 
 # 🤖 Overview
 
 ClermAI is an experimental open-source ecosystem focused on building intelligent AI agents capable of executing real-world tasks through structured command systems.
 
-While most artificial intelligence tools today focus on conversation, ClermAI explores a different direction — **execution-first AI systems** designed to interact with tools, APIs, infrastructure, and real digital environments.
+While many artificial intelligence tools today focus mainly on conversation interfaces, ClermAI explores a different direction — **execution-first AI systems** designed to interact with tools, APIs, infrastructure, and real digital environments.
 
-The goal is simple but powerful: move AI beyond passive chat interfaces and into **active operational systems**.
+The goal is simple but powerful: move AI beyond passive chat interfaces and into **active operational systems capable of performing actions**.
 
 ClermAI investigates how autonomous agents can coordinate actions, process instructions, and perform complex workflows through reliable command-driven architectures.
+
+---
+
+# 🌐 Official Website
+
+The main platform for ClermAI can be accessed here:
+
+**https://www.clermai.xyz/**
+
+The website acts as a central hub where users and developers can explore the ClermAI ecosystem, learn about the project vision, and access tools and experiments built within the platform.
 
 ---
 
@@ -30,13 +44,13 @@ ClermAI investigates how autonomous agents can coordinate actions, process instr
 
 The future of AI will not only be about answering questions.
 
-It will be about **systems that can execute.**
+It will be about **systems capable of executing tasks and interacting with the digital world.**
 
-ClermAI aims to explore how AI agents can evolve into practical infrastructure components capable of assisting developers, automating workflows, and integrating deeply with digital systems.
+ClermAI explores how AI agents can evolve into practical infrastructure components capable of assisting developers, automating workflows, and integrating with real systems.
 
-Rather than building isolated AI tools, the focus is on creating **modular systems that interact with the world**.
+Rather than building isolated AI tools, the focus is on creating **modular systems that interact with tools, APIs, and infrastructure layers.**
 
-Execution, reliability, and extensibility are core ideas behind the project.
+Execution reliability, extensibility, and open experimentation are the foundations of this project.
 
 ---
 
@@ -45,93 +59,90 @@ Execution, reliability, and extensibility are core ideas behind the project.
 ClermAI explores several important areas of AI engineering:
 
 ### Autonomous AI Agents
-Systems that can operate semi-independently and interact with tools or services.
+Systems capable of operating semi-independently and interacting with tools or services.
 
 ### Command-Driven Execution
-Structured commands allow AI to translate reasoning into concrete actions.
+Structured command layers that translate AI reasoning into executable system actions.
 
 ### Tool Integration
-Agents capable of using APIs, scripts, and infrastructure to complete tasks.
+Agents capable of interacting with APIs, scripts, and infrastructure components.
 
 ### Modular Architecture
-Systems designed to be extensible and easily integrated with other software.
+Components designed to be easily extended and integrated into new systems.
 
 ### Experimental Infrastructure
-Rapid prototyping environments for testing new ideas in AI automation.
+Rapid prototyping environments for testing ideas in automation and agent systems.
 
 ---
 
 # 🚀 What Lives Inside This Repository
 
-The ClermAI ecosystem may contain several types of projects and tools, including:
+The ClermAI ecosystem may include various types of projects and experiments:
 
 • AI agent prototypes  
 • command execution frameworks  
 • developer automation utilities  
 • experimental backend systems  
-• integrations with external APIs  
 • infrastructure orchestration tools  
-• research-oriented prototypes  
+• integrations with APIs and services  
+• research-oriented experiments  
 
-Some projects are early experiments.  
-Some evolve into real tools.
+Some projects are early prototypes.  
+Others evolve into practical tools.
 
-Everything contributes to exploring **execution-capable AI systems.**
-
----
-
-# 🌐 Open Development Philosophy
-
-ClermAI follows an open development approach built around three simple ideas.
-
-### Transparency
-
-Technology evolves faster when development happens openly.
-
-### Collaboration
-
-Ideas improve when shared across communities.
-
-### Experimentation
-
-Innovation often begins with imperfect experiments.
-
-ClermAI encourages exploration, iteration, and creative experimentation within open-source environments.
-
----
-
-# 🛠 Development Approach
-
-Projects in this ecosystem generally prioritize:
-
-• minimal dependencies  
-• efficient execution  
-• developer-friendly workflows  
-• modular architecture  
-• experimentation speed  
-
-The goal is not just building tools, but also **testing ideas about how AI systems should operate in real environments.**
+All contribute to exploring **execution-capable AI systems.**
 
 ---
 
 # 🔬 Areas of Exploration
 
-ClermAI continues exploring multiple directions including:
+ClermAI continues exploring multiple directions in AI infrastructure:
 
 • autonomous task execution  
-• AI agent coordination  
-• command orchestration layers  
-• automation frameworks  
+• multi-agent coordination  
+• command orchestration systems  
+• developer automation frameworks  
 • infrastructure integrations  
-• developer AI tooling  
+• AI tooling for developers  
 
-These areas evolve as new experiments and prototypes are created.
+These areas evolve continuously as new ideas and prototypes emerge.
+
+---
+
+# 🌍 Open Development Philosophy
+
+ClermAI follows an open development philosophy built around three key principles.
+
+### Transparency
+Technology evolves faster when development happens openly.
+
+### Collaboration
+Ideas grow stronger through shared experimentation.
+
+### Experimentation
+Innovation often begins with imperfect prototypes.
+
+The ClermAI ecosystem encourages curiosity, iteration, and creative development.
+
+---
+
+# 🛠 Development Approach
+
+Projects inside ClermAI generally prioritize:
+
+• minimal dependencies  
+• efficient execution  
+• developer-friendly tooling  
+• modular design  
+• rapid experimentation  
+
+The goal is not only building tools, but also **testing how AI systems should operate in real environments.**
 
 ---
 
 # 🤝 Contributing
 
-Contributions are always welcome.
+Contributions are welcome from developers, builders, and experimenters.
 
 You can contribute by:
 
@@ -141,25 +152,27 @@ You can contribute by:
 • building experimental modules  
 • reporting issues  
 
-Open collaboration helps push ideas forward faster.
+Open collaboration helps accelerate innovation.
 
 ---
 
 # 📜 License
 
-Unless specified otherwise, projects within the ClermAI ecosystem follow open-source licensing models that encourage experimentation and learning.
+Unless stated otherwise, projects within the ClermAI ecosystem follow open-source licensing models.
 
-Please review individual project licenses for more details.
+Please review individual project licenses for specific details.
 
 ---
 
-# 🔗 Community
+# 🔗 Connect
 
-Discussions, ideas, and feedback are always encouraged.
+🌐 Website  
+https://www.clermai.xyz/
 
-Open collaboration is a core principle behind ClermAI.
+💻 GitHub  
+https://github.com/
 
-GitHub discussions and issues are the primary places for conversation and experimentation.
+Discussions, feedback, and ideas are always welcome.
 
 ---
 
